@@ -5,7 +5,7 @@ I have used Alamofire and SwiftyJson frameworks here.
 
 # Launch Screen
 
-![LaunchScreen](https://github.com/swathimk/ShopifyInternChallenge/blob/master/Screenshots/LaunchScreen.jpeg | height = 50)
+![LaunchScreen](https://github.com/swathimk/ShopifyInternChallenge/blob/master/Screenshots/LaunchScreen.jpeg)
       
 # Collections List Page
 
