@@ -1,4 +1,4 @@
 # ShopifyInternChallenge
 
-![LaunchScreen](ShopifyInternChallenge/Screenshots/LaunchScreen.jpeg)
+![LaunchScreen](https://github.com/swathimk/ShopifyInternChallenge/Screenshots/LaunchScreen.jpeg)
       
