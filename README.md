@@ -6,6 +6,7 @@ I have used Alamofire and SwiftyJson frameworks here.
 
 <p align="center">
   <img src="/Screenshots/LaunchScreen.jpeg" width="300" />
+  
   <img src="/Screenshots/CustomCollectionsListPage.jpeg" width="300" /> 
 </p>
 
