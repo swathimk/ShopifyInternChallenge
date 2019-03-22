@@ -1,11 +1,11 @@
 # ShopifyInternChallenge
 
 Please open Shopify.xcworkspace file and run the App.
-I have used Alamofire and SwiftyJson fraameworks here.
+I have used Alamofire and SwiftyJson frameworks here.
 
 # Launch Screen
 
-![LaunchScreen](https://github.com/swathimk/ShopifyInternChallenge/blob/master/Screenshots/LaunchScreen.jpeg)
+![LaunchScreen](https://github.com/swathimk/ShopifyInternChallenge/blob/master/Screenshots/LaunchScreen.jpeg | height = 50)
       
 # Collections List Page
 
