@@ -5,12 +5,9 @@ I have used Alamofire and SwiftyJson frameworks here.
 
 
 <p align="center">
-  <img src="/Screenshots/LaunchScreen.jpeg" width="300" /
-  >          <img src="/Screenshots/CustomCollectionsListPage.jpeg" width="300" /> 
+  <img src="/Screenshots/LaunchScreen.jpeg" width="250" /> 
+  <img src="/Screenshots/CustomCollectionsListPage.jpeg" width="250" /> 
+  <img src="/Screenshots/CollectionDetailsPage.jpeg" width="250" />
 </p>
 
-<p align="center">
-  <img src="/Screenshots/CollectionDetailsPage.jpeg" width="300" />
-  <img src="/Screenshots/CollectionDetailsPage2.jpeg" width="300" />
-</p>
 
