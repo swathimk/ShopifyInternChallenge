@@ -1,5 +1,8 @@
 # ShopifyInternChallenge
 
+Please open Shopify.xcworkspace file and run the App.
+I have used Alamofire and SwiftyJson fraameworks here.
+
 # Launch Screen
 
 ![LaunchScreen](https://github.com/swathimk/ShopifyInternChallenge/blob/master/Screenshots/LaunchScreen.jpeg)
